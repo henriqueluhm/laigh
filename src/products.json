@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "LAIGH black t-shirt",
+        "price": 10.00,
+        "image": { "fields": { "file": { "url": "../images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "LAIGH black t-shirt",
+        "price": 10.00,
+        "image": { "fields": { "file": { "url": "../images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "LAIGH black t-shirt",
+        "price": 10.00,
+        "image": { "fields": { "file": { "url": "../images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "LAIGH black t-shirt",
+        "price": 10.00,
+        "image": { "fields": { "file": { "url": "../images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "LAIGH black t-shirt",
+        "price": 10.00,
+        "image": { "fields": { "file": { "url": "../images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "LAIGH white t-shirt",
+        "price": 10.00,
+        "image": { "fields": { "file": { "url": "../images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "LAIGH white t-shirt",
+        "price": 10.00,
+        "image": { "fields": { "file": { "url": "../images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "LAIGH white t-shirt",
+        "price": 10.00,
+        "image": { "fields": { "file": { "url": "../images/product-8.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "LAIGH white t-shirt",
+        "price": 10.00,
+        "image": { "fields": { "file": { "url": "../images/product-9.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "LAIGH white t-shirt",
+        "price": 10.00,
+        "image": { "fields": { "file": { "url": "../images/product-10.jpeg" } } }
+      }
+    }
+  ]
+}
