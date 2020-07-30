@@ -21,6 +21,10 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
+a:active, a:visited {
+  color: white;
+}
+
 /* --------------- Navbar ---------------- */
 .navbar{
     position: sticky;
@@ -373,4 +377,8 @@ body {
     transition: 0.5s;
     transform: scale(1.25);
     cursor: pointer;
+  }
+  
+  .conte a {
+    color: white;
   }
